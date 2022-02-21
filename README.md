@@ -1,5 +1,5 @@
 # Loan-calculator
-# Tip-calculator
+# Tip-Pool (calculator)
 
  <h3>Simple loan calculators and restaurant serving tip calculators were used </h3>
 
